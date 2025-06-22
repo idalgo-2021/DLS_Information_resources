@@ -45,3 +45,6 @@
 
 * [Яндекс-хендбук по ML](https://education.yandex.ru/handbook/ml)
 * [ШАД:Поработаем с диффузионными моделями и узнаем про начинку YaArt](https://shad.yandex.ru/cvweek#program)
+
+### Ссылки
+* https://github.com/aladdinpersson/Machine-Learning-Collection
