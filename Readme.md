@@ -1,7 +1,7 @@
 
 # Список источников информации по теме DL и ML 
 
-
+*Список источников, которыми я руководствуюсь. М.б. будет кому-то полезным.*
 
 ## Deep Learning School
 
@@ -35,16 +35,18 @@
 
 ## МГУ
 
-* (Github - Data-Analysis-with-Python
-)[https://github.com/MSUcourses/Data-Analysis-with-Python/]
-* [Deep Learning - из тогоже гитхаба](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Deep%20Learning)
+* https://github.com/MSUcourses/Data-Analysis-with-Python/
+* [Deep Learning - из гитхаба(выше)](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Deep%20Learning)
 
 
+### Прочее(гайды, ссылки, лекции и т.п.)
 
-## Прочее
-
+#### Топчик
+* https://github.com/aladdinpersson/Machine-Learning-Collection
 * [Яндекс-хендбук по ML](https://education.yandex.ru/handbook/ml)
 * [ШАД:Поработаем с диффузионными моделями и узнаем про начинку YaArt](https://shad.yandex.ru/cvweek#program)
 
-### Ссылки
-* https://github.com/aladdinpersson/Machine-Learning-Collection
+
+#### Прочее
+* [Хороший, но сильно устаревший курс СКБ-Контур(Окуловский)](https://ulearn.me/Course/AIML)
+
