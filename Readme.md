@@ -13,8 +13,10 @@
 * [Course page on stepic.org](https://stepik.org/course/230362/info)
 * [Materials of the first part (1st-semestr) of Deep Learning School course (ML + CV)](https://github.com/DeepLearningSchool/part_1_ml_cv)
 
-### 2-я часть(осенний семестр 2025)
 
+### 2-я часть(осенний семестр 2025)
+* [Course page on stepic.org](https://stepik.org/course/251729/info)
+* [Materials of the second part (2st-semestr) of Deep Learning School course (NLP)](https://github.com/DeepLearningSchool/part_2_nlp)
 
 
 ## ИТМО
