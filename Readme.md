@@ -19,6 +19,12 @@
 * [Materials of the second part (2st-semestr) of Deep Learning School course (NLP)](https://github.com/DeepLearningSchool/part_2_nlp)
 
 
+
+## Computer Science Space 
+
+* [Нейрология LLM Осень 2025](https://www.youtube.com/playlist?list=PLBD2NlYIwZ2c4wsKLfYDfQueg-Fjl2jbS)
+
+
 ## ИТМО
 
 * [Advanced ML. 4 курс бакалавриат КТ, ИТМО Осень 2023](https://www.youtube.com/playlist?list=PLa_aTuoX4NlqAP-ibkyBiYVHp_8BnN58z)
